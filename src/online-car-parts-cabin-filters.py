@@ -82,7 +82,6 @@ def initialize_excel(file_path):
                "SUPPLEMENTARY INFO",
                "FITTING POSITION",
                "VEHICLE EQUIPMENT",
-               "EMISSION STANDARD",
                "VEHICLE PRODUCTION COUNTRY",
                "QUANTITY UNIT",
                "MULTI-PIECE",
@@ -233,7 +232,7 @@ def online_car_parts(driver, file_path):
     # }
 
     desired_brands = {
-        "RENAULT"
+        "FIAT"
     }
 
     # desired_models = {
