@@ -1,0 +1,6 @@
+all data/
+cabin filters all data/
+old/
+.idea/
+.venv/
+car_parts_data.xlsx
